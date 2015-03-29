@@ -1,0 +1,15 @@
+{
+  "name": "projectgf",
+  "version": "0.0.0",
+  "description": "code name GF",
+  "main": "index.js",
+  "dependencies": {
+    "x-ray": "~1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
